@@ -1,0 +1,13 @@
+com\geek\DaoImpl\UserDaoImpl.class
+com\geek\Manager\UserManager.class
+com\geek\Dao\UserDao.class
+com\geek\model\User.class
+com\geek\App.class
+com\geek\ManagerImpl\StudentManagerImpl.class
+com\geek\config\SpringMongoConfig.class
+com\geek\DaoImpl\StudentDaoImpl.class
+com\geek\BaseObject.class
+com\geek\Manager\StudentManager.class
+com\geek\ManagerImpl\UserManagerImpl.class
+com\geek\model\Student.class
+com\geek\Dao\StudentDao.class

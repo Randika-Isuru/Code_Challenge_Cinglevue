@@ -1,0 +1,5 @@
+com\geek\config\AppConfig.class
+com\geek\controller\LoginController.class
+com\geek\config\SpringSecurityInitializer.class
+com\geek\config\SpringMvcInitializer.class
+com\geek\config\SecurityConfig.class
