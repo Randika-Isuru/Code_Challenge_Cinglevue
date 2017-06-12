@@ -5,13 +5,13 @@ Before go through whole project I would like to say I am unable to complete whol
 
 In this project I use several technologies
 
-*Spring MVC
-*Spring Security
-*Spting Data (for communicate with NoSQL DB ex. MongoDB)
-*Apache Maven (Build Tool)
-*JavaScript
-*Tomcat
-*RestFul
+* Spring MVC
+* Spring Security
+* Spting Data (for communicate with NoSQL DB ex. MongoDB)
+* Apache Maven (Build Tool)
+* JavaScript
+* Tomcat 8.5
+* RestFul
 
 This whole project was configure using annotation there are no any .xml file even this project not requred web.xml file. I am new to some of this technologies ex. Spring Data and while I am crating this project I was stuck some places This is the one of major problem I faced
 
