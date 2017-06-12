@@ -21,7 +21,7 @@ however this is running application you can run this application using following
 
 * checkout the repository
 * Go to the root pom.xml
-* Change the Path of <outputDirectory>"To_your_webapps_folder"</outputDirectory>
+* Change the Path of outputDirectory tag inside the pom "To_your_webapps_folder"
 * Then run mvn clean install inside the root directory ex.F:\Personal\Cingle Eve\Code Challenge- Cinglevue International\Student Rrgistration\sms>mvn clean install
 * start tomcat
 * Go to http://localhost:8080/sms-web/
