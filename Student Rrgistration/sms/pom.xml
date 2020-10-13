@@ -18,7 +18,7 @@
     	<servlet-jsp-api.version>2.3.1</servlet-jsp-api.version>
     	<commons-digester.version>3.2</commons-digester.version>
     	<jstl.version>1.2</jstl.version>
-    	<junit.version>4.12</junit.version>
+    	<junit.version>4.13.1</junit.version>
     	<maven.compiler.source>1.8</maven.compiler.source>
     	<maven.compiler.target>1.8</maven.compiler.target>
    </properties>
