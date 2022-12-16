@@ -9,7 +9,7 @@
   <name>sms</name>
   
   	<properties>
-        <spring.version>4.3.9.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
     	<spring-security.version>5.2.10.RELEASE</spring-security.version>
     	<mongo-driver.version>3.4.2</mongo-driver.version>
     	<spring-data.version>1.10.4.RELEASE</spring-data.version>
